@@ -19,7 +19,7 @@
         "nodemon": "^1.18.10"
     },
     "engines": {
-        "node": "8.11.3"
+        "node": "8.9.4"
     },
     "prettier": {
         "trailingComma": "all",
