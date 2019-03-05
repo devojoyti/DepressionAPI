@@ -18,6 +18,9 @@
     "devDependencies": {
         "nodemon": "^1.18.10"
     },
+    "engines": {
+        "node": "8.11.3"
+    },
     "prettier": {
         "trailingComma": "all",
         "tabWidth": 4,
